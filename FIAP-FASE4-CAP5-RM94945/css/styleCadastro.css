@@ -1,0 +1,30 @@
+*{
+    background-color: #2f4a63;
+    align-items: center;
+    text-align: center;
+}
+.fontcolor{
+    background: white;
+}
+.icons{
+    font-size: 2em;
+    color: black;
+    display: inline;
+    width: 500px;
+    margin: 5px
+}
+.img{
+    width: 500px;
+    height: 500px;;
+}
+.alinhar{
+    position: absolute;
+    left: 35%;
+}
+a:visited, a:link{
+    color: black;
+}
+a:hover {
+    color: white;
+    text-decoration: none;
+}

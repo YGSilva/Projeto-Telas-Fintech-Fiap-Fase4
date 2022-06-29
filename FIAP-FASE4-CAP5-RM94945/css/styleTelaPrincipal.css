@@ -1,0 +1,24 @@
+.bgBody{
+    background-color: #2f4a63;
+}
+.img{
+    width: 350px;
+    height: 350px;;
+}
+.princ{
+    background-color: whitesmoke;
+}
+.imgIcon{
+    font-size: 2em;
+    color: black;
+}
+.icons{
+    font-size: 2em;
+    color: black;
+    width: 500px;
+    margin: 5px
+}
+.bgDivHome{
+    background-color: #cbd1d6;
+    padding: 10px;
+}
